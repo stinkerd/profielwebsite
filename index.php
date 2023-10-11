@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>welkom op onze profielen pagina!</h1>
+    <p>kaas</p>
 </body>
 </html>
