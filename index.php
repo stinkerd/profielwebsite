@@ -6,6 +6,6 @@
     <title>hoofdpagina profiles</title>
 </head>
 <body>
-    
+    <h1>welkom op onze profielen pagina!</h1>
 </body>
 </html>
